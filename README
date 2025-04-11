@@ -1,0 +1,60 @@
+Here’s a comprehensive README template tailored for your food site project. You can modify the content to suit your specific site features and goals.
+
+---
+
+# **Delicious Discoveries**  
+#### A web platform for exploring recipes, meal plans, and local restaurants  
+#### By **Edrick Muthamia and Contributors**  
+
+## **Description**  
+Delicious Discoveries is an interactive website dedicated to food enthusiasts. Whether you're searching for inspiring recipes, planning meals, or discovering top-rated restaurants nearby, this platform provides everything you need in one place. Users can explore curated recipes, save favorites, and create personalized meal plans. With restaurant reviews and dietary preferences integrated into the platform, food lovers can enjoy a seamless culinary experience.
+
+## **Features**  
+- Search for recipes by ingredients, cuisine, or cooking time  
+- Personalized meal plan suggestions based on dietary preferences  
+- Save favorite recipes and meal plans  
+- Discover local restaurants and read user reviews  
+- Step-by-step interactive cooking guides for selected recipes  
+- User ratings for recipes and restaurant listings  
+
+## **Setup/Installation Requirements**  
+1. Clone the repository:  
+   ```bash
+   git clone https://github.com/EdrickMuthamia/Food-site.git
+   ```
+2. Navigate to the project directory:  
+   ```bash
+   cd Food-site
+   ```
+3. Install dependencies:  
+   ```bash
+   npm install
+   ```
+4. Start the development server:  
+   ```bash
+   npm start
+   ```
+5. Open `http://localhost:3000` in your browser to explore the site locally.  
+
+## **Known Bugs**  
+- Some recipes might lack detailed nutritional information.  
+- Restaurant recommendations may not be available in all regions.  
+- Filtering recipes based on dietary preferences may return incomplete results.  
+- Users can report issues or suggest features via [GitHub Issues](https://github.com/EdrickMuthamia/Food-site/issues).  
+
+## **Technologies Used**  
+- **Frontend:** React.js, Bootstrap, CSS  
+- **Backend:** Node.js, Express.js  
+- **Database:** MongoDB  
+- **API Integrations:** Spoonacular API for recipes, Yelp API for restaurant data  
+
+## **Support and Contact Details**  
+If you encounter any issues or have ideas for improvement, feel free to reach out:  
+- **Email:** edrickmuthamia@example.com  
+- **GitHub Repository:** [Delicious Discoveries Repo](https://github.com/EdrickMuthamia/Food-site)  
+
+## **License**  
+This project is licensed under the **MIT License**.  
+Copyright (c) 2025 **Edrick Muthamia and Contributors**  
+
+---
